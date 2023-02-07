@@ -1,1 +1,3 @@
-This project is to develop a Admin Dashboard
+ADMIN DASHBOARD
+
+This project is done by using React JS.
