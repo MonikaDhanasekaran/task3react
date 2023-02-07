@@ -1,3 +1,5 @@
-ADMIN DASHBOARD
+                      ADMIN DASHBOARD 
 
-This project is done by using the tech stack React JS.
+About the Project - This project is to develop a Admin dashboard page.
+
+Tech Stack - React JS
